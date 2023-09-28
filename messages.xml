@@ -1,0 +1,26 @@
+<messages>
+    <positive>
+        <message>Great job on the project! You really nailed it!</message>
+        <message>I'm so proud of your achievements. Keep up the good work!</message>
+        <message>Your positive attitude is infectious. It brightens everyone's day.</message>
+		<message>Hey, I aced that exam today! 🎉</message>
+        <message>Just got a promotion at work! Feeling on top of the world!</message>
+        <message>Thanks for always being there to support me. You're the best!</message>
+    </positive>
+    <negative>
+        <message>I'm sorry to hear about your loss. My thoughts are with you.</message>
+        <message>This situation is tough, but remember, you're tougher. You can get through it.</message>
+        <message>It's okay to feel down sometimes. Reach out to friends for support.</message>
+		<message>I got stuck in traffic again. This day couldn't get any worse.</message>
+        <message>My computer crashed, and I lost all my files. Total disaster!</message>
+        <message>Feeling really under the weather. I hate being sick.</message>
+    </negative>
+    <neutral>
+        <message>The weather forecast for tomorrow is partly cloudy with a chance of rain.</message>
+        <message>I'll be at the meeting at 2 PM. See you there.</message>
+        <message>Please find attached the document you requested.</message>
+        <message>What's the weather forecast for tomorrow?</message>
+        <message>Are you free for a meeting at 3 PM?</message>
+        <message>Please send me the report when you get a chance.</message>
+    </neutral>
+</messages>

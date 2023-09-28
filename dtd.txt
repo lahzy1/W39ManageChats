@@ -1,0 +1,7 @@
+<!DOCTYPE messages [
+    <!ELEMENT messages (positive, negative, neutral)>
+    <!ELEMENT positive (message)*>
+    <!ELEMENT negative (message)*>
+    <!ELEMENT neutral (message)*>
+    <!ELEMENT message (#PCDATA)>
+]>
