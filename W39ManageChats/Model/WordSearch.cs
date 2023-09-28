@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
+﻿using System.Diagnostics;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Windows.Controls;
-using System.Xml.Linq;
 
 namespace W39ManageChats.Model
 {

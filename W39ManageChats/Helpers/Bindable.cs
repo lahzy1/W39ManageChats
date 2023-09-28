@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
+﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace W39ManageChats.Helpers
 {
-    /*  
-     *Informerer lyttere om, at en egenskab er blevet ændret, hvilket udløser PropertyChanged-begivenheden.
-     *<param name="memberName">Navnet på den ændrede egenskab (automatisk udfyldt af CallerMemberName-attributten).</param>
+    /*
+     * Inform listeners that a property has changed, which triggers the PropertyChanged event.
      */
     public class Bindable : INotifyPropertyChanged
     {
